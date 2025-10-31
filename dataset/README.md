@@ -1,6 +1,6 @@
 # Dataset Information
 
-Here you can find information about our dataset preparation. We decided to construct our own dataset using information from open sources such as books and courses
+Here you can find information about our dataset preparation. We decided to construct our own dataset using information from open sources such as books and courses. Estimated size of final dataset is ~800 unique nodes
 
 ## Node Example
 All nodes listed in our final [dataset](nodes.json) have the same structure
@@ -16,11 +16,11 @@ All nodes listed in our final [dataset](nodes.json) have the same structure
 ```
 
 ## Scrapping Progress
-- [x] https://allendowney.github.io/ThinkPython/
+- [x] [Think Python](https://allendowney.github.io/ThinkPython/)
     - 171 unique nodes
     - see preprocessing [code](./think_python/process.py)
-- [ ] https://pyflo.net/
-- [ ] https://automatetheboringstuff.com/#toc
-- [ ] https://www.nltk.org/book/
-- [ ] http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
-- [ ] https://docs.python-guide.org/
+- [ ] [PyFlo](https://pyflo.net/)
+- [ ] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
+- [ ] [Natural Language Processing with Python](https://www.nltk.org/book/)
+- [ ] [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
+- [ ] [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
