@@ -1,6 +1,6 @@
 # Graph Lux
 
-**GraphLux** is an _GraphML_ based knowelage graph constructor created to help users to learn new topics with a speed of **✨light✨**!
+**GraphLux** is an _GraphML_ based knowledge graph constructor created to help users to learn new topics with a speed of **✨light✨**!
 
 ## 🗂️ Index
 
@@ -12,7 +12,7 @@
 
 ## ❓ About
 
-**GraphLUX** brings light to education process. Using our service you can increase your education speed and quality. It works by building knowelage graph based on **your** preferencess and knowelage.
+**GraphLUX** brings light to education process. Using our service you can increase your education speed and quality. It works by building knowledge graph based on **your** preferencess and knowledge.
 
 ## 📋 Requirements
 
