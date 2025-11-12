@@ -22,7 +22,7 @@ git clone https://github.com/LowIQCoder/graphlux.git
 cd graphlux
 ```
 
-Now create and activate virtual envoirement with **Python 3.14** or higher
+Now create and activate virtual envoirement with **Python 3.12**
 ```bash
 python -m venv .venv
 .venv/Scripts/activate    # Windows

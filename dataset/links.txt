@@ -1,6 +1,0 @@
-https://allendowney.github.io/ThinkPython/
-https://pyflo.net/
-https://automatetheboringstuff.com/#toc
-https://www.nltk.org/book/
-http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
-https://docs.python-guide.org/
